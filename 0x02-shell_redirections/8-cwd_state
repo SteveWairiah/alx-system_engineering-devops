@@ -1,2 +1,2 @@
 #!/bin/bash
-List All Files Including Hidden
+ls -la > ls_cwd_content
